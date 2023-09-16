@@ -1,3 +1,3 @@
 # Stiftung Radiomuseum Luzern
-- [Portal](https://www.radiomuseum.org)
-- [Cohiradia](https://cohiradia.radiomuseum.org)
+- [Portal - www.radiomuseum.org](https://www.radiomuseum.org)
+- [Cohiradia - cohiradia.radiomuseum.org](https://cohiradia.radiomuseum.org)
